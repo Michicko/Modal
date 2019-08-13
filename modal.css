@@ -1,0 +1,40 @@
+#inner-container {
+    margin-left: 10%;   
+    margin-right: 10%;  
+}
+
+.modal-brand {
+    padding: 5px 0 10px 10px; 
+}
+
+.modal-nav, .modal-foot {
+    background: #333;
+    color: #fff;
+}
+
+.modal-foot {
+    text-align: center;
+    padding: 10px;
+}
+
+.modal-body {
+    margin: 10px;
+}
+
+hr {
+    margin-bottom: 20px;
+}
+
+.box-a {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 5px;
+    margin-bottom: 10px;
+}
+
+.box-b {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 5px;
+}
+
